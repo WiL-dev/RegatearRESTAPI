@@ -1,0 +1,33 @@
+{
+  "name": "regatearapi",
+  "version": "1.0.0",
+  "description": "REST API para la app regatear usando slim framework",
+  "main": "index.php",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WiL-dev/RegatearRESTAPI.git"
+  },
+  "keywords": [
+    "regatear",
+    "ahorro",
+    "rest"
+  ],
+  "author": "Wil-Dev",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/WiL-dev/RegatearRESTAPI/issues"
+  },
+  "homepage": "https://github.com/WiL-dev/RegatearRESTAPI#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-changed": "^3.1.0",
+    "gulp-dest-clean": "^0.5.0",
+    "merge-stream": "^1.0.1"
+  }
+}
